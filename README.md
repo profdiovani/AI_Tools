@@ -18,6 +18,7 @@ As ferramentas estão organizadas por categoria para facilitar o acesso e uso em
 - [Redes Neurais e Visualizações](#redes-neurais-e-visualizações)
 - [Datasets e Machine Learning](#datasets-e-machine-learning)
 - [Ferramentas de Pesquisa](#ferramentas-de-pesquisa)
+- [3D](#3d)
 - [Contribuindo](#contribuindo)
 
 ---
@@ -153,6 +154,11 @@ Sites para buscar conjuntos de dados para aprendizado de máquina:
 - [Stork AI](https://www.stork.ai/)
 - [Perplexity AI](https://www.perplexity.ai/)
 - [Vext Portal](https://app.vextapp.com/)
+
+---
+## 3D
+
+- [Rodin](https://hyper3d.ai/)
 
 ---
 
