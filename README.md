@@ -19,6 +19,7 @@ As ferramentas estão organizadas por categoria para facilitar o acesso e uso em
 - [Datasets e Machine Learning](#datasets-e-machine-learning)
 - [Ferramentas de Pesquisa](#ferramentas-de-pesquisa)
 - [3D](#3d)
+- [AI TOOLKIT] (#ai_toolkit)
 - [Contribuindo](#contribuindo)
 
 ---
@@ -160,6 +161,10 @@ Sites para buscar conjuntos de dados para aprendizado de máquina:
 
 - [Rodin](https://hyper3d.ai/)
 
+---
+## ai_toolkit
+- [LM Studio](https://lmstudio.ai/)
+- [Ollama](https://ollama.com/)
 ---
 
 ## Contribuindo
