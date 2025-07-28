@@ -20,6 +20,7 @@ As ferramentas estão organizadas por categoria para facilitar o acesso e uso em
 - [Ferramentas de Pesquisa](#ferramentas-de-pesquisa)
 - [3D](#3d)
 - [AI TOOLKIT](#AI-Toolkit)
+- [WEB SCRAPING](#web-scraping) 
 - [Contribuindo](#contribuindo)
 
 ---
@@ -165,6 +166,11 @@ Sites para buscar conjuntos de dados para aprendizado de máquina:
 ## AI Toolkit
 - [LM Studio](https://lmstudio.ai/)
 - [Ollama](https://ollama.com/)
+---
+
+---
+## web-scraping
+- [Scrape Graph AI](https://dashboard.scrapegraphai.com/)
 ---
 
 ## Contribuindo
