@@ -2,13 +2,20 @@
 
 Este repositório apresenta uma curadoria estruturada de ferramentas de **Inteligência Artificial (IA)**, com foco em **uso executivo, produtividade, marketing, dados, automação e criação de conteúdo**.
 
-As ferramentas estão organizadas por **categoria**, contendo **link direto** e **descrição prática de valor**, facilitando a avaliação e adoção em contextos corporativos.
+As ferramentas estão organizadas por **categoria**, contendo **link direto**, **descrição prática de valor** e **status de acesso**, facilitando a avaliação e adoção em contextos corporativos.
+
+**Legenda de Status:**
+- 🟢 **Gratuito** – Acesso sem custos
+- 🟡 **Freemium** – Versão gratuita com limitações; versão paga oferece mais funcionalidades
+- 🔴 **Pago** – Requer assinatura
+- 🔵 **Open Source** – Código aberto, pode ser auto-hospedado
 
 ---
 
 ## 📑 Índice
 
 * [Produtividade e Comunicação](#produtividade-e-comunicação)
+* [Buscadores com IA](#buscadores-com-ia)
 * [Marketing e Vendas](#marketing-e-vendas)
 * [Apresentações com IA](#apresentações-com-ia)
 * [Criação de Conteúdo Visual (Imagens)](#criação-de-conteúdo-visual-imagens)
@@ -16,9 +23,13 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto** e 
 * [Assistentes Personalizados e Conhecimento](#assistentes-personalizados-e-conhecimento)
 * [Análise de Dados e Inteligência de Mercado](#análise-de-dados-e-inteligência-de-mercado)
 * [Ferramentas Especializadas](#ferramentas-especializadas)
+* [Desenvolvimento e Código](#desenvolvimento-e-código)
+* [Modelos e Frameworks](#modelos-e-frameworks)
+* [LLMs Locais e Execução Privada](#llms-locais-e-execução-privada)
+* [Ambientes de Desenvolvimento](#ambientes-de-desenvolvimento)
+* [Frameworks de Agentes](#frameworks-de-agentes)
 * [Datasets e Machine Learning](#datasets-e-machine-learning)
 * [3D](#3d)
-* [AI Toolkit](#ai-toolkit)
 * [Web Scraping](#web-scraping)
 * [Contribuindo](#contribuindo)
 
@@ -26,159 +37,276 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto** e 
 
 ## Produtividade e Comunicação
 
-* **[ChatGPT – OpenAI](https://chat.openai.com/chat)**
+* **[ChatGPT – OpenAI](https://chat.openai.com)** 🟡
   Assistente de linguagem de uso geral para escrita, análise, planejamento estratégico e suporte à tomada de decisão. Reduz drasticamente o tempo gasto em tarefas cognitivas e comunicação executiva.
 
-* **[Gemini – Google](https://gemini.google.com/app)**
+* **[Gemini – Google](https://gemini.google.com)** 🟡
   Modelo multimodal integrado ao ecossistema Google Workspace, permitindo análise de texto, imagens e dados em tempo real, com forte apoio a inteligência competitiva.
 
-* **[Microsoft Copilot](https://www.microsoft.com/copilot)**
-  Assistente nativo do Microsoft 365 (Word, Excel, PowerPoint, Outlook), focado em automação de tarefas, geração de relatórios, análises e apresentações dentro das ferramentas já utilizadas no dia a dia.
+* **[Microsoft Copilot](https://copilot.microsoft.com)** 🟢
+  Assistente nativo do Microsoft 365 (Word, Excel, PowerPoint, Outlook), focado em automação de tarefas, geração de relatórios, análises e apresentações dentro das ferramentas já utilizadas no dia a dia. Versão web gratuita disponível.
 
-* **[Claude – Anthropic](https://claude.ai/)**
+* **[Claude – Anthropic](https://claude.ai)** 🟡
   Modelo de IA com forte capacidade de raciocínio profundo, indicado para análises estratégicas, revisão de documentos críticos e planejamento de cenários complexos.
+
+---
+
+## Buscadores com IA
+
+* **[Perplexity AI](https://www.perplexity.ai)** 🟡
+  Buscador com IA em tempo real que fornece respostas com citação de fontes, ideal para pesquisa e análise de informações atualizadas. Versão gratuita com limitações.
+
+* **[DeepSeek](https://deepseek.com)** 🟡
+  Alternativa de código aberto e eficiente com suporte ao português, oferecendo alternativa privada aos modelos proprietários ocidentais.
 
 ---
 
 ## Marketing e Vendas
 
-* **[Jasper.ai](https://www.jasper.ai/)**
+* **[Jasper.ai](https://www.jasper.ai)** 🔴
   Plataforma especializada em geração de conteúdo de marketing otimizado para conversão, permitindo padronização da comunicação e aceleração de campanhas.
 
-* **[Copy.ai](https://www.copy.ai/)**
+* **[Copy.ai](https://www.copy.ai)** 🟡
   Ferramenta focada em copywriting para vendas, prospecção e campanhas digitais, com templates prontos para diferentes objetivos comerciais.
 
-* **[Writesonic](https://writesonic.com/)**
+* **[Writesonic](https://writesonic.com)** 🟡
   Plataforma versátil para criação de conteúdo, landing pages e chatbots, permitindo testes rápidos de mercado e automação do atendimento.
 
 ---
 
 ## Apresentações com IA
 
-* **[Gamma](https://gamma.app/)**
+* **[Gamma](https://gamma.app)** 🟡
   Criação automática de apresentações profissionais a partir de texto ou documentos, eliminando esforço de design e formatação.
 
-* **[Decktopus](https://www.decktopus.com/)**
+* **[Decktopus](https://www.decktopus.com)** 🟡
   Plataforma de apresentações com templates inteligentes e sugestões automáticas de layout orientadas a pitch decks e apresentações corporativas.
 
-* **[Beautiful.ai](https://www.beautiful.ai/)**
+* **[Beautiful.ai](https://www.beautiful.ai)** 🟡
   Criação de slides com design automatizado e padronizado, garantindo consistência visual corporativa.
 
 ---
 
 ## Criação de Conteúdo Visual (Imagens)
 
-* **[Midjourney](https://www.midjourney.com/)**
-  Geração de imagens artísticas de alta qualidade a partir de prompts textuais, amplamente utilizada para conceitos visuais e marketing.
+* **[Midjourney](https://www.midjourney.com)** 🔴
+  Geração de imagens artísticas de alta qualidade a partir de prompts textuais, amplamente utilizada para conceitos visuais e marketing. Acesso via Discord, assinatura obrigatória.
 
-* **[Leonardo AI](https://leonardo.ai/)**
+* **[Leonardo AI](https://leonardo.ai)** 🟡
   Plataforma de geração de imagens com controle avançado de estilo e consistência visual, ideal para design de produtos e branding.
 
-* **[DALL·E 3 – OpenAI](https://openai.com/dall-e)**
+* **[DALL·E 3 – OpenAI](https://openai.com/dall-e)** 🟡
   Modelo de geração de imagens integrado ao ChatGPT, com alta fidelidade a prompts complexos e uso corporativo consistente.
 
-* **[Stable Diffusion](https://stability.ai/)**
-  Modelo open source que permite geração de imagens localmente, garantindo maior controle, privacidade e integração com sistemas internos.
+* **[Stable Diffusion](https://stability.ai)** 🟡
+  Modelo open source que permite geração de imagens localmente, garantindo maior controle, privacidade e integração com sistemas internos. Versão online com créditos gratuitos.
 
-* **[Microsoft Designer](https://designer.microsoft.com/)**
-  Ferramenta de design gráfico assistido por IA para criação rápida de materiais de marketing e redes sociais.
+* **[Microsoft Designer](https://designer.microsoft.com)** 🟡
+  Ferramenta de design gráfico assistido por IA para criação rápida de materiais de marketing e redes sociais. Integrado ao Bing Image Creator.
+
+* **[ClipDrop](https://clipdrop.co)** 🟡
+  Ferramentas de edição e geração de imagens com IA para remoção de objetos, upscaling e transformações visuais.
 
 ---
 
 ## Vídeo e Áudio
 
-* **[Synthesia](https://www.synthesia.io/)**
+* **[Synthesia](https://www.synthesia.io)** 🔴
   Criação de vídeos a partir de texto com avatares de IA, ideal para treinamentos, comunicação corporativa e conteúdo multilíngue.
 
-* **[HeyGen](https://www.heygen.com/)**
+* **[HeyGen](https://www.heygen.com)** 🟡
   Plataforma de vídeos com avatares realistas e sincronização labial avançada em múltiplos idiomas.
 
-* **[D-ID](https://www.d-id.com/)**
+* **[D-ID](https://www.d-id.com)** 🟡
   Criação de apresentadores virtuais com controle de expressões faciais e emoções para vídeos institucionais e educacionais.
 
-* **[Vidyo.ai](https://vidyo.ai/)**
+* **[Vidyo.ai](https://vidyo.ai)** 🟡
   Geração automática de vídeos curtos para redes sociais a partir de conteúdos longos como reuniões, podcasts e apresentações.
 
-* **[ElevenLabs](https://elevenlabs.io/)**
+* **[ElevenLabs](https://elevenlabs.io)** 🟡
   Plataforma de síntese de voz realista para criação de podcasts, audiolivros e conteúdos acessíveis.
 
-* **[Otter.ai](https://otter.ai/)**
+* **[Otter.ai](https://otter.ai)** 🟡
   Transcrição automática de reuniões com identificação de falantes, resumos e busca inteligente.
 
-* **[MeetGeek](https://meetgeek.ai/)**
+* **[MeetGeek](https://meetgeek.ai)** 🟡
   Análise avançada de reuniões, com extração de insights, decisões e itens de ação.
 
 ---
 
 ## Assistentes Personalizados e Conhecimento
 
-* **[Poe](https://poe.com/)**
+* **[Poe](https://poe.com)** 🟡
   Interface unificada para múltiplos modelos de IA, permitindo criação de bots especializados combinando diferentes LLMs.
 
-* **[ChatPDF](https://www.chatpdf.com/)**
+* **[ChatPDF](https://www.chatpdf.com)** 🟡
   Análise conversacional de documentos PDF, ideal para contratos, relatórios e documentos extensos.
 
 ---
 
 ## Análise de Dados e Inteligência de Mercado
 
-* **[Bright Data](https://brightdata.com/)**
+* **[Bright Data](https://brightdata.com)** 🔴
   Coleta e monitoramento de dados públicos em larga escala para inteligência competitiva e análise de mercado.
 
-* **[Akkio](https://www.akkio.com/)**
+* **[Akkio](https://www.akkio.com)** 🟡
   Plataforma de análise preditiva baseada em IA, permitindo previsões de vendas e demanda sem necessidade de data scientists.
 
 ---
 
 ## Ferramentas Especializadas
 
-* **[JurídicoAI](https://www.juridico.ai/)**
+* **[JurídicoAI](https://www.juridico.ai)** 🔴
   Análise automatizada de contratos e documentos legais, com identificação de riscos e recomendações.
 
-* **[Cleanup.pictures](https://cleanup.pictures/)**
+* **[Cleanup.pictures](https://cleanup.pictures)** 🟡
   Remoção inteligente de objetos indesejados em imagens.
 
-* **[Artbreeder](https://www.artbreeder.com/)**
+* **[Artbreeder](https://www.artbreeder.com)** 🟡
   Criação e combinação de imagens artísticas para exploração criativa e prototipagem visual.
 
-* **[Ideogram AI](https://ideogram.ai/)**
+* **[Ideogram AI](https://ideogram.ai)** 🟡
   Geração de imagens com excelente renderização de texto integrado.
 
-* **[Mapify](https://mapify.ai/)**
+* **[Mapify](https://mapify.ai)** 🟡
   Visualização geográfica e mapas interativos para análise espacial de dados.
 
-* **[Mixo.io](https://www.mixo.io/)**
+* **[Mixo.io](https://www.mixo.io)** 🟡
   Criação automatizada de sites e landing pages para validação rápida de ideias.
 
-* **[Rewind AI](https://www.rewind.ai/)**
+* **[Rewind AI](https://www.rewind.ai)** 🔴
   Gravação e recuperação inteligente de atividades digitais para auditoria e produtividade.
+
+* **[Grammarly](https://www.grammarly.com)** 🟡
+  Ferramenta de correção gramatical e melhoria de redação com IA, com sugestões de tom e estilo.
+
+---
+
+## Desenvolvimento e Código
+
+* **[GitHub Copilot](https://github.com/features/copilot)** 🔴
+  Assistente de programação em VS Code e IDEs, com sugestões de código contextualizadas. Versão gratuita para estudantes.
+
+* **[Continue.dev](https://continue.dev)** 🟢
+  Extensão VS Code com suporte a modelos locais e APIs, permitindo IA privada sem custos adicionais.
+
+* **[Cline](https://cline.bot)** 🟢
+  Extensão VS Code para tarefas multi-passos com IA, permitindo automação de fluxos de desenvolvimento.
+
+---
+
+## Modelos e Frameworks
+
+* **[Hugging Face](https://huggingface.co)** 🟢
+  Hub com 100.000+ modelos de IA, datasets e Spaces para experimentação e produção. Plataforma central para ML open source.
+
+* **[TensorFlow](https://tensorflow.org)** 🟢
+  Framework open-source do Google para Machine Learning e deep learning.
+
+* **[PyTorch](https://pytorch.org)** 🟢
+  Framework de ML desenvolvido pelo Meta, preferido em pesquisa e prototipagem.
+
+* **[LangChain](https://github.com/langchain-ai/langchain)** 🟢
+  Framework open-source para construir aplicações com LLMs e agentes IA, com integração a múltiplos modelos.
+
+---
+
+## LLMs Locais e Execução Privada
+
+* **[Ollama](https://ollama.com)** 🟢
+  Executa LLMs localmente (Llama 3, DeepSeek, Mistral, etc.) com interface simplificada. Ideal para privacidade e sem custos.
+
+* **[GPT4All](https://gpt4all.io)** 🟢
+  Interface amigável para rodar modelos localmente sem GPU, permitindo IA offline e privada.
+
+* **[Open WebUI](https://docs.openwebui.com)** 🟢
+  Interface web open-source para gerenciar e executar LLMs locais com Ollama ou APIs remotas.
+
+* **[LM Studio](https://lmstudio.ai)** 🟢
+  GUI intuitivo para executar modelos localmente com suporte a inferência rápida e otimização de memória.
+
+---
+
+## Ambientes de Desenvolvimento
+
+* **[Google Colab](https://colab.google)** 🟢
+  Notebooks Jupyter com GPU/TPU gratuita para treinamento de modelos ML e prototipagem de IA.
+
+* **[Vertex AI (Google Cloud)](https://cloud.google.com/vertex-ai)** 🟡
+  Plataforma ML gerenciada do Google com ferramentas enterprise, análise preditiva e deployment em escala.
+
+* **[Kaggle](https://kaggle.com)** 🟢
+  Comunidade de dados com notebooks gratuitos, competições e acesso a datasets públicos para aprendizado e pesquisa.
+
+---
+
+## Frameworks de Agentes
+
+* **[Botpress](https://botpress.com)** 🟡
+  Framework gratuito para criar agentes de IA e chatbots com orquestração visual e integração com APIs.
+
+* **[Rasa](https://rasa.com)** 🟢
+  Plataforma open-source para construir chatbots inteligentes com NLP avançado e gerenciamento de contexto.
+
+* **[CrewAI](https://crewai.com)** 🟢
+  Framework open-source para criar agentes colaborativos que trabalham em conjunto para resolver tarefas complexas.
+
+* **[AutoGen](https://microsoft.github.io/autogen)** 🟢
+  Framework Microsoft para orquestração de agentes multi-fase, permitindo comunicação entre agentes para resolver problemas.
 
 ---
 
 ## Datasets e Machine Learning
 
-* **[Hugging Face](https://huggingface.co/)** – Modelos, datasets e pipelines de ML.
-* **[Kaggle](https://www.kaggle.com/)** – Competições e datasets públicos.
-* **[UCI ML Repository](https://archive.ics.uci.edu/)** – Repositório acadêmico clássico de datasets.
+* **[Hugging Face](https://huggingface.co)** 🟢 – Modelos, datasets e pipelines de ML. Hub central para comunidade ML.
+
+* **[Kaggle](https://www.kaggle.com)** 🟢 – Competições, datasets públicos e notebooks para aprendizado colaborativo.
+
+* **[UCI ML Repository](https://archive.ics.uci.edu)** 🟢 – Repositório acadêmico clássico de datasets para pesquisa e educação.
+
+* **[Google Dataset Search](https://datasetsearch.research.google.com)** 🟢 – Mecanismo de busca para descobrir datasets públicos em toda a web.
 
 ---
 
 ## 3D
 
-* **[Rodin](https://hyper3d.ai/)** – Geração de modelos 3D a partir de imagens ou texto.
-
----
-
-## AI Toolkit
-
-* **[LM Studio](https://lmstudio.ai/)** – Execução local de LLMs.
-* **[Ollama](https://ollama.com/)** – Gerenciamento e execução de modelos de linguagem localmente.
+* **[Rodin (Hyper3D.AI)](https://hyper3d.ai)** 🟡 – Geração de modelos 3D a partir de imagens ou texto com IA.
 
 ---
 
 ## Web Scraping
 
-* **[ScrapeGraph AI](https://dashboard.scrapegraphai.com/)** – Web scraping orientado por grafos e IA.
+* **[ScrapeGraph AI](https://dashboard.scrapegraphai.com)** 🟡 – Web scraping orientado por grafos e IA, automatizando extração de dados estruturados.
+
+---
+
+## 📊 Resumo de Novas Ferramentas Adicionadas
+
+As seguintes ferramentas foram **adicionadas** nesta atualização:
+
+| Ferramenta | Status | Categoria |
+|---|---|---|
+| Perplexity AI | 🟡 Freemium | Buscadores com IA |
+| DeepSeek | 🟡 Freemium | Buscadores com IA |
+| Cline | 🟢 Gratuito | Desenvolvimento e Código |
+| Continue.dev | 🟢 Gratuito | Desenvolvimento e Código |
+| TensorFlow | 🟢 Open Source | Modelos e Frameworks |
+| PyTorch | 🟢 Open Source | Modelos e Frameworks |
+| LangChain | 🟢 Open Source | Modelos e Frameworks |
+| Ollama | 🟢 Open Source | LLMs Locais |
+| GPT4All | 🟢 Open Source | LLMs Locais |
+| Open WebUI | 🟢 Open Source | LLMs Locais |
+| LM Studio | 🟢 Open Source | LLMs Locais |
+| Vertex AI | 🟡 Freemium | Ambientes de Desenvolvimento |
+| Google Dataset Search | 🟢 Gratuito | Datasets e Machine Learning |
+| Botpress | 🟡 Freemium | Frameworks de Agentes |
+| Rasa | 🟢 Open Source | Frameworks de Agentes |
+| CrewAI | 🟢 Open Source | Frameworks de Agentes |
+| AutoGen | 🟢 Open Source | Frameworks de Agentes |
+| ClipDrop | 🟡 Freemium | Criação de Conteúdo Visual |
+| Grammarly | 🟡 Freemium | Ferramentas Especializadas |
+
+**Total de ferramentas: 62** (anteriormente 43)
 
 ---
 
@@ -189,8 +317,11 @@ Sinta-se à vontade para:
 - Criar [issues](https://github.com/seu-usuario/seu-repo/issues) com sugestões de novas ferramentas
 - Enviar um [pull request](https://github.com/seu-usuario/seu-repo/pulls) com melhorias
 - Sugerir novas categorias ou melhorias na organização
+- Reportar links quebrados ou informações desatualizadas
 
 ---
 
 **Licença**
 Este projeto está licenciado sob a licença MIT.
+
+**Última atualização:** Janeiro de 2026
