@@ -112,12 +112,6 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto** e 
 
 ## Assistentes Personalizados e Conhecimento
 
-* **[Promptly](https://promptly.ai/)**
-  Criação de assistentes de IA personalizados para atendimento interno ou externo sem necessidade de programação.
-
-* **[Quivr](https://www.quivr.app/)**
-  Assistente corporativo que utiliza documentos internos como base de conhecimento para respostas contextualizadas.
-
 * **[Poe](https://poe.com/)**
   Interface unificada para múltiplos modelos de IA, permitindo criação de bots especializados combinando diferentes LLMs.
 
