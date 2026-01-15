@@ -190,6 +190,9 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 * **[GitHub Copilot](https://github.com/features/copilot)** 🔴
   Assistente de programação em VS Code e IDEs, com sugestões de código contextualizadas. Versão gratuita para estudantes.
 
+* **[Cursor](https://cursor.com)** 🔴
+  IDE baseado em VS Code com IA integrada, oferecendo autocompletar preciso (Tab), agente para transformar ideias em código e compreensão avançada de codebase. Alternativa premium ao GitHub Copilot com recursos mais robustos.
+
 * **[Continue.dev](https://continue.dev)** 🟢
   Extensão VS Code com suporte a modelos locais e APIs, permitindo IA privada sem custos adicionais.
 
@@ -295,6 +298,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 | Perplexity AI | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | DeepSeek | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | Grok | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
+| Cursor | 🔴 Pago | Desenvolvimento e Código | 🔵 Intermediário |
 | Lovable | 🟡 Freemium | Desenvolvimento e Código | 🟢 Iniciante |
 | Cline | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | Continue.dev | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
@@ -319,7 +323,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 - 🔵 **Intermediário** – Requer algum conhecimento técnico ou experiência com desenvolvimento
 - 🔴 **Avançado** – Conhecimento profundo em ML, programação ou engenharia de dados necessário
 
-**Total de ferramentas: 64** (anteriormente 63)
+**Total de ferramentas: 65** (anteriormente 64)
 
 ---
 
