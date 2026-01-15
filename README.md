@@ -58,9 +58,6 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto** e 
 * **[Gamma](https://gamma.app/)**
   Criação automática de apresentações profissionais a partir de texto ou documentos, eliminando esforço de design e formatação.
 
-* **[Tome](https://tome.app/)**
-  Ferramenta de storytelling visual que combina narrativa, dados e design interativo para apresentações executivas mais engajadoras.
-
 * **[Decktopus](https://www.decktopus.com/)**
   Plataforma de apresentações com templates inteligentes e sugestões automáticas de layout orientadas a pitch decks e apresentações corporativas.
 
