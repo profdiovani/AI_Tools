@@ -335,8 +335,8 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 
 Sinta-se à vontade para:
 
-- Criar [issues](https://github.com/seu-usuario/seu-repo/issues) com sugestões de novas ferramentas
-- Enviar um [pull request](https://github.com/seu-usuario/seu-repo/pulls) com melhorias
+- Criar [issues](https://github.com/profdiovani/AI_Tools/issues) com sugestões de novas ferramentas
+- Enviar um [pull request](https://github.com/profdiovani/AI_Tools/pulls) com melhorias
 - Sugerir novas categorias ou melhorias na organização
 - Reportar links quebrados ou informações desatualizadas
 
