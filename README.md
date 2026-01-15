@@ -204,6 +204,25 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 
 ---
 
+## Frameworks de Agentes
+
+* **[Botpress](https://botpress.com)** 🟡
+  Framework gratuito para criar agentes de IA e chatbots com orquestração visual e integração com APIs.
+
+* **[Rasa](https://rasa.com)** 🟢
+  Plataforma open-source para construir chatbots inteligentes com NLP avançado e gerenciamento de contexto.
+
+* **[CrewAI](https://crewai.com)** 🟢
+  Framework open-source para criar agentes colaborativos que trabalham em conjunto para resolver tarefas complexas.
+
+* **[AutoGen](https://microsoft.github.io/autogen)** 🟢
+  Framework Microsoft para orquestração de agentes multi-fase, permitindo comunicação entre agentes para resolver problemas.
+
+* **[Emergent Agent](https://www.emergentagent.com/landing/)** 🟡
+  Plataforma para criar agentes de IA autônomos com capacidades de planejamento avançado e execução de tarefas. Ideal para automação de processos complexos e orquestração de workflows inteligentes.
+
+---
+
 ## Modelos e Frameworks
 
 * **[Hugging Face](https://huggingface.co)** 🟢
@@ -249,22 +268,6 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 
 ---
 
-## Frameworks de Agentes
-
-* **[Botpress](https://botpress.com)** 🟡
-  Framework gratuito para criar agentes de IA e chatbots com orquestração visual e integração com APIs.
-
-* **[Rasa](https://rasa.com)** 🟢
-  Plataforma open-source para construir chatbots inteligentes com NLP avançado e gerenciamento de contexto.
-
-* **[CrewAI](https://crewai.com)** 🟢
-  Framework open-source para criar agentes colaborativos que trabalham em conjunto para resolver tarefas complexas.
-
-* **[AutoGen](https://microsoft.github.io/autogen)** 🟢
-  Framework Microsoft para orquestração de agentes multi-fase, permitindo comunicação entre agentes para resolver problemas.
-
----
-
 ## Datasets e Machine Learning
 
 * **[Hugging Face](https://huggingface.co)** 🟢 – Modelos, datasets e pipelines de ML. Hub central para comunidade ML.
@@ -302,6 +305,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 | Lovable | 🟡 Freemium | Desenvolvimento e Código | 🟢 Iniciante |
 | Cline | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | Continue.dev | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
+| Emergent Agent | 🟡 Freemium | Frameworks de Agentes | 🔵 Intermediário |
 | TensorFlow | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
 | PyTorch | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
 | LangChain | 🟢 Open Source | Modelos e Frameworks | 🔵 Intermediário |
@@ -323,7 +327,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 - 🔵 **Intermediário** – Requer algum conhecimento técnico ou experiência com desenvolvimento
 - 🔴 **Avançado** – Conhecimento profundo em ML, programação ou engenharia de dados necessário
 
-**Total de ferramentas: 65** (anteriormente 64)
+**Total de ferramentas: 66** (anteriormente 65)
 
 ---
 
