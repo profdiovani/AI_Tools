@@ -284,27 +284,32 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 
 As seguintes ferramentas foram **adicionadas** nesta atualização:
 
-| Ferramenta | Status | Categoria |
-|---|---|---|
-| Perplexity AI | 🟡 Freemium | Buscadores com IA |
-| DeepSeek | 🟡 Freemium | Buscadores com IA |
-| Cline | 🟢 Gratuito | Desenvolvimento e Código |
-| Continue.dev | 🟢 Gratuito | Desenvolvimento e Código |
-| TensorFlow | 🟢 Open Source | Modelos e Frameworks |
-| PyTorch | 🟢 Open Source | Modelos e Frameworks |
-| LangChain | 🟢 Open Source | Modelos e Frameworks |
-| Ollama | 🟢 Open Source | LLMs Locais |
-| GPT4All | 🟢 Open Source | LLMs Locais |
-| Open WebUI | 🟢 Open Source | LLMs Locais |
-| LM Studio | 🟢 Open Source | LLMs Locais |
-| Vertex AI | 🟡 Freemium | Ambientes de Desenvolvimento |
-| Google Dataset Search | 🟢 Gratuito | Datasets e Machine Learning |
-| Botpress | 🟡 Freemium | Frameworks de Agentes |
-| Rasa | 🟢 Open Source | Frameworks de Agentes |
-| CrewAI | 🟢 Open Source | Frameworks de Agentes |
-| AutoGen | 🟢 Open Source | Frameworks de Agentes |
-| ClipDrop | 🟡 Freemium | Criação de Conteúdo Visual |
-| Grammarly | 🟡 Freemium | Ferramentas Especializadas |
+| Ferramenta | Status | Categoria | Nível |
+|---|---|---|---|
+| Perplexity AI | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
+| DeepSeek | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
+| Cline | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
+| Continue.dev | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
+| TensorFlow | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
+| PyTorch | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
+| LangChain | 🟢 Open Source | Modelos e Frameworks | 🔵 Intermediário |
+| Ollama | 🟢 Open Source | LLMs Locais | 🟢 Iniciante |
+| GPT4All | 🟢 Open Source | LLMs Locais | 🟢 Iniciante |
+| Open WebUI | 🟢 Open Source | LLMs Locais | 🔵 Intermediário |
+| LM Studio | 🟢 Open Source | LLMs Locais | 🟢 Iniciante |
+| Vertex AI | 🟡 Freemium | Ambientes de Desenvolvimento | 🔵 Intermediário |
+| Google Dataset Search | 🟢 Gratuito | Datasets e Machine Learning | 🟢 Iniciante |
+| Botpress | 🟡 Freemium | Frameworks de Agentes | 🔵 Intermediário |
+| Rasa | 🟢 Open Source | Frameworks de Agentes | 🔴 Avançado |
+| CrewAI | 🟢 Open Source | Frameworks de Agentes | 🔴 Avançado |
+| AutoGen | 🟢 Open Source | Frameworks de Agentes | 🔴 Avançado |
+| ClipDrop | 🟡 Freemium | Criação de Conteúdo Visual | 🟢 Iniciante |
+| Grammarly | 🟡 Freemium | Ferramentas Especializadas | 🟢 Iniciante |
+
+**Legenda de Níveis:**
+- 🟢 **Iniciante** – Interface intuitiva, sem conhecimento técnico prévio necessário
+- 🔵 **Intermediário** – Requer algum conhecimento técnico ou experiência com desenvolvimento
+- 🔴 **Avançado** – Conhecimento profundo em ML, programação ou engenharia de dados necessário
 
 **Total de ferramentas: 62** (anteriormente 43)
 
