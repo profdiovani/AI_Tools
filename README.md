@@ -153,9 +153,6 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto** e 
 * **[Rewind AI](https://www.rewind.ai/)**
   Gravação e recuperação inteligente de atividades digitais para auditoria e produtividade.
 
-* **[AI Canvas](https://ai-canvas.ai/)**
-  Framework estratégico visual para análise e estruturação de modelos de negócio com apoio de IA.
-
 ---
 
 ## Datasets e Machine Learning
