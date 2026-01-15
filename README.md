@@ -59,6 +59,9 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 * **[DeepSeek](https://deepseek.com)** 🟡
   Alternativa de código aberto e eficiente com suporte ao português, oferecendo alternativa privada aos modelos proprietários ocidentais.
 
+* **[Grok](https://grok.com)** 🟡
+  Assistente de IA desenvolvido pela xAI com acesso em tempo real a informações do X (Twitter), ideal para análise de tendências, notícias e conversas em redes sociais. Integrado ao ecossistema X.
+
 ---
 
 ## Marketing e Vendas
@@ -288,6 +291,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 |---|---|---|---|
 | Perplexity AI | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | DeepSeek | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
+| Grok | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | Cline | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | Continue.dev | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | TensorFlow | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
@@ -311,7 +315,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 - 🔵 **Intermediário** – Requer algum conhecimento técnico ou experiência com desenvolvimento
 - 🔴 **Avançado** – Conhecimento profundo em ML, programação ou engenharia de dados necessário
 
-**Total de ferramentas: 62** (anteriormente 43)
+**Total de ferramentas: 63** (anteriormente 62)
 
 ---
 
