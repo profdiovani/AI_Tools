@@ -196,6 +196,9 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 * **[Cline](https://cline.bot)** 🟢
   Extensão VS Code para tarefas multi-passos com IA, permitindo automação de fluxos de desenvolvimento.
 
+* **[Lovable](https://lovable.dev)** 🟡
+  Plataforma para criar aplicações web e sites conversando com IA, sem necessidade de codificação manual. Ideal para prototipagem rápida de produtos e MVPs.
+
 ---
 
 ## Modelos e Frameworks
@@ -292,6 +295,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 | Perplexity AI | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | DeepSeek | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
 | Grok | 🟡 Freemium | Buscadores com IA | 🟢 Iniciante |
+| Lovable | 🟡 Freemium | Desenvolvimento e Código | 🟢 Iniciante |
 | Cline | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | Continue.dev | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
 | TensorFlow | 🟢 Open Source | Modelos e Frameworks | 🔴 Avançado |
@@ -315,7 +319,7 @@ As seguintes ferramentas foram **adicionadas** nesta atualização:
 - 🔵 **Intermediário** – Requer algum conhecimento técnico ou experiência com desenvolvimento
 - 🔴 **Avançado** – Conhecimento profundo em ML, programação ou engenharia de dados necessário
 
-**Total de ferramentas: 63** (anteriormente 62)
+**Total de ferramentas: 64** (anteriormente 63)
 
 ---
 
