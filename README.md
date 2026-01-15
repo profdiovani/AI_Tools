@@ -1,176 +1,197 @@
 # AI_Tools - 🧠 Catálogo de Ferramentas de Inteligência Artificial
 
-Este repositório apresenta uma curadoria de ferramentas de **Inteligência Artificial (IA)** úteis para criação de conteúdo, automação, aprendizado de máquina e muito mais.
+Este repositório apresenta uma curadoria estruturada de ferramentas de **Inteligência Artificial (IA)**, com foco em **uso executivo, produtividade, marketing, dados, automação e criação de conteúdo**.
 
-As ferramentas estão organizadas por categoria para facilitar o acesso e uso em projetos acadêmicos, profissionais ou experimentais.
+As ferramentas estão organizadas por **categoria**, contendo **link direto** e **descrição prática de valor**, facilitando a avaliação e adoção em contextos corporativos.
 
 ---
 
 ## 📑 Índice
 
-- [Apresentações com IA](#apresentações-com-ia)
-- [Texto para Voz (TTS)](#texto-para-voz-tts)
-- [Geração de Vídeo](#geração-de-vídeo)
-- [Chats e Modelos LLM](#chats-e-modelos-llm)
-- [Geração de Imagens](#geração-de-imagens)
-- [Automação com IA](#automação-com-ia)
-- [PDF para Podcast](#pdf-para-podcast)
-- [Redes Neurais e Visualizações](#redes-neurais-e-visualizações)
-- [Datasets e Machine Learning](#datasets-e-machine-learning)
-- [Ferramentas de Pesquisa](#ferramentas-de-pesquisa)
-- [3D](#3d)
-- [AI TOOLKIT](#AI-Toolkit)
-- [WEB SCRAPING](#web-scraping) 
-- [Contribuindo](#contribuindo)
+* [Produtividade e Comunicação](#produtividade-e-comunicação)
+* [Marketing e Vendas](#marketing-e-vendas)
+* [Apresentações com IA](#apresentações-com-ia)
+* [Criação de Conteúdo Visual (Imagens)](#criação-de-conteúdo-visual-imagens)
+* [Vídeo e Áudio](#vídeo-e-áudio)
+* [Assistentes Personalizados e Conhecimento](#assistentes-personalizados-e-conhecimento)
+* [Análise de Dados e Inteligência de Mercado](#análise-de-dados-e-inteligência-de-mercado)
+* [Ferramentas Especializadas](#ferramentas-especializadas)
+* [Datasets e Machine Learning](#datasets-e-machine-learning)
+* [3D](#3d)
+* [AI Toolkit](#ai-toolkit)
+* [Web Scraping](#web-scraping)
+* [Contribuindo](#contribuindo)
+
+---
+
+## Produtividade e Comunicação
+
+* **[ChatGPT – OpenAI](https://chat.openai.com/chat)**
+  Assistente de linguagem de uso geral para escrita, análise, planejamento estratégico e suporte à tomada de decisão. Reduz drasticamente o tempo gasto em tarefas cognitivas e comunicação executiva.
+
+* **[Gemini – Google](https://gemini.google.com/app)**
+  Modelo multimodal integrado ao ecossistema Google Workspace, permitindo análise de texto, imagens e dados em tempo real, com forte apoio a inteligência competitiva.
+
+* **[Microsoft Copilot](https://www.microsoft.com/copilot)**
+  Assistente nativo do Microsoft 365 (Word, Excel, PowerPoint, Outlook), focado em automação de tarefas, geração de relatórios, análises e apresentações dentro das ferramentas já utilizadas no dia a dia.
+
+* **[Claude – Anthropic](https://claude.ai/)**
+  Modelo de IA com forte capacidade de raciocínio profundo, indicado para análises estratégicas, revisão de documentos críticos e planejamento de cenários complexos.
+
+---
+
+## Marketing e Vendas
+
+* **[Jasper.ai](https://www.jasper.ai/)**
+  Plataforma especializada em geração de conteúdo de marketing otimizado para conversão, permitindo padronização da comunicação e aceleração de campanhas.
+
+* **[Copy.ai](https://www.copy.ai/)**
+  Ferramenta focada em copywriting para vendas, prospecção e campanhas digitais, com templates prontos para diferentes objetivos comerciais.
+
+* **[Writesonic](https://writesonic.com/)**
+  Plataforma versátil para criação de conteúdo, landing pages e chatbots, permitindo testes rápidos de mercado e automação do atendimento.
 
 ---
 
 ## Apresentações com IA
 
-Ferramentas que ajudam a criar slides de forma rápida e inteligente:
+* **[Gamma](https://gamma.app/)**
+  Criação automática de apresentações profissionais a partir de texto ou documentos, eliminando esforço de design e formatação.
 
-- [Presentations.ai](https://www.presentations.ai/)
-- [Beautiful.ai](https://www.beautiful.ai/)
-- [SlidesGo](https://slidesgo.com/pt/)
-- [Genially](https://app.genially.com/)
-- [Tome](https://tome.app/)
-- [Prezi AI](https://prezi.com/pt/features/ai/)
-- [Gamma](https://gamma.app/)
-- [Slides](https://slides.com/)
-- [SlideTeam](https://www.slideteam.net/)
+* **[Tome](https://tome.app/)**
+  Ferramenta de storytelling visual que combina narrativa, dados e design interativo para apresentações executivas mais engajadoras.
 
----
+* **[Decktopus](https://www.decktopus.com/)**
+  Plataforma de apresentações com templates inteligentes e sugestões automáticas de layout orientadas a pitch decks e apresentações corporativas.
 
-## Texto para Voz (TTS)
-
-Ferramentas para transformar texto em voz com diferentes estilos e idiomas:
-
-- [ElevenLabs](https://beta.elevenlabs.io/speech-synthesis)
-- [Murf AI](https://murf.ai/)
-- [PlayHT](https://play.ht/)
-- [Speechify](https://speechify.com/)
-- [Natural Readers](https://www.naturalreaders.com/)
-- [Animaker Voice](https://www.animaker.co/voice)
-- [VoiceGenerator.io](https://voicegenerator.io/)
-- [Rask](https://app.rask.ai/voices)
-- [VoiceHub (Rev)](https://www.rev.com/services/voicehub)
-- [Whisper (OpenAI)](https://github.com/openai/whisper)
+* **[Beautiful.ai](https://www.beautiful.ai/)**
+  Criação de slides com design automatizado e padronizado, garantindo consistência visual corporativa.
 
 ---
 
-## Geração de Vídeo
+## Criação de Conteúdo Visual (Imagens)
 
-Crie vídeos automáticos com texto, imagens ou avatares com IA:
+* **[Midjourney](https://www.midjourney.com/)**
+  Geração de imagens artísticas de alta qualidade a partir de prompts textuais, amplamente utilizada para conceitos visuais e marketing.
 
-- [HeyGen](https://app.heygen.com/home)
-- [Synthesia](https://www.synthesia.io/)
-- [Pictory](https://pictory.ai/)
-- [Colossyan](https://www.colossyan.com/)
-- [Elai.io](https://elai.io/)
-- [Fliki](https://fliki.ai/)
-- [PixVerse](https://app.pixverse.ai/create/video/character)
-- [DeepBrain](https://www.deepbrain.io/aistudios)
-- [Invideo AI](https://invideo.io/)
-- [BasedLabs.ai](https://www.basedlabs.ai/)
-- [Synthesys.io](https://synthesys.io/)
-- [Vidnoz](https://pt.vidnoz.com/)
+* **[Leonardo AI](https://leonardo.ai/)**
+  Plataforma de geração de imagens com controle avançado de estilo e consistência visual, ideal para design de produtos e branding.
 
----
+* **[DALL·E 3 – OpenAI](https://openai.com/dall-e)**
+  Modelo de geração de imagens integrado ao ChatGPT, com alta fidelidade a prompts complexos e uso corporativo consistente.
 
-## Chats e Modelos LLM
+* **[Stable Diffusion](https://stability.ai/)**
+  Modelo open source que permite geração de imagens localmente, garantindo maior controle, privacidade e integração com sistemas internos.
 
-Ferramentas de chat com modelos de linguagem natural:
-
-- [ChatGPT](https://chat.openai.com/chat)
-- [DeepSeek Chat](https://chat.deepseek.com/)
-- [Claude](https://claude.ai/)
-- [Gemini (Google)](https://gemini.google.com/app)
-- [Poe](https://poe.com/)
-- [ChatPDF](https://www.chatpdf.com/)
-- [Abacus AI](https://abacus.ai/)
-- [GroqChat](https://groq.com/)
-- [Anthropic](https://www.anthropic.com/index/introducing-claude)
+* **[Microsoft Designer](https://designer.microsoft.com/)**
+  Ferramenta de design gráfico assistido por IA para criação rápida de materiais de marketing e redes sociais.
 
 ---
 
-## Geração de Imagens
+## Vídeo e Áudio
 
-Crie imagens, ilustrações e artes com inteligência artificial:
+* **[Synthesia](https://www.synthesia.io/)**
+  Criação de vídeos a partir de texto com avatares de IA, ideal para treinamentos, comunicação corporativa e conteúdo multilíngue.
 
-- [DALL·E](https://labs.openai.com/)
-- [Leonardo.ai](https://app.leonardo.ai/image-generation)
-- [Midjourney](https://www.midjourney.com/app/)
-- [NightCafe](https://creator.nightcafe.studio/)
-- [Dreamlike.art](https://dreamlike.art/)
-- [Craiyon](https://www.craiyon.com/)
-- [Stable Assistant](https://stability.ai/stable-assistant)
-- [Microsoft Designer](https://designer.microsoft.com/)
-- [Canva](https://www.canva.com/pt_br/)
-- [Pika](https://pika.art/home)
+* **[HeyGen](https://www.heygen.com/)**
+  Plataforma de vídeos com avatares realistas e sincronização labial avançada em múltiplos idiomas.
 
----
+* **[D-ID](https://www.d-id.com/)**
+  Criação de apresentadores virtuais com controle de expressões faciais e emoções para vídeos institucionais e educacionais.
 
-## Automação com IA
+* **[Vidyo.ai](https://vidyo.ai/)**
+  Geração automática de vídeos curtos para redes sociais a partir de conteúdos longos como reuniões, podcasts e apresentações.
 
-Ferramentas para criar testes, processos e workflows automáticos:
+* **[ElevenLabs](https://elevenlabs.io/)**
+  Plataforma de síntese de voz realista para criação de podcasts, audiolivros e conteúdos acessíveis.
 
-- [Abstra](https://www.abstra.io/)
-- [Perfecto Scriptless](https://www.perfecto.io/products/scriptless)
-- [Applitools](https://applitools.com/)
+* **[Otter.ai](https://otter.ai/)**
+  Transcrição automática de reuniões com identificação de falantes, resumos e busca inteligente.
+
+* **[MeetGeek](https://meetgeek.ai/)**
+  Análise avançada de reuniões, com extração de insights, decisões e itens de ação.
 
 ---
 
-## PDF para Podcast
+## Assistentes Personalizados e Conhecimento
 
-- [PDF to Podcast](https://pdf-to-podcast.com/): Converta conteúdo de PDF em áudio com IA.
+* **[Promptly](https://promptly.ai/)**
+  Criação de assistentes de IA personalizados para atendimento interno ou externo sem necessidade de programação.
+
+* **[Quivr](https://www.quivr.app/)**
+  Assistente corporativo que utiliza documentos internos como base de conhecimento para respostas contextualizadas.
+
+* **[Poe](https://poe.com/)**
+  Interface unificada para múltiplos modelos de IA, permitindo criação de bots especializados combinando diferentes LLMs.
+
+* **[ChatPDF](https://www.chatpdf.com/)**
+  Análise conversacional de documentos PDF, ideal para contratos, relatórios e documentos extensos.
 
 ---
 
-## Redes Neurais e Visualizações
+## Análise de Dados e Inteligência de Mercado
 
-Recursos para estudar redes neurais, RNNs, LSTMs e mais:
+* **[Bright Data](https://brightdata.com/)**
+  Coleta e monitoramento de dados públicos em larga escala para inteligência competitiva e análise de mercado.
 
-- [Teachable Machine (Google)](https://teachablemachine.withgoogle.com/)
-- [ConvNetJS](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
-- [Karpathy - RNN](https://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-- [LSTM - Colah](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-- [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/linear-regression/gradient-descent?hl=pt-br)
+* **[Akkio](https://www.akkio.com/)**
+  Plataforma de análise preditiva baseada em IA, permitindo previsões de vendas e demanda sem necessidade de data scientists.
+
+---
+
+## Ferramentas Especializadas
+
+* **[JurídicoAI](https://www.juridico.ai/)**
+  Análise automatizada de contratos e documentos legais, com identificação de riscos e recomendações.
+
+* **[Cleanup.pictures](https://cleanup.pictures/)**
+  Remoção inteligente de objetos indesejados em imagens.
+
+* **[Artbreeder](https://www.artbreeder.com/)**
+  Criação e combinação de imagens artísticas para exploração criativa e prototipagem visual.
+
+* **[Ideogram AI](https://ideogram.ai/)**
+  Geração de imagens com excelente renderização de texto integrado.
+
+* **[Mapify](https://mapify.ai/)**
+  Visualização geográfica e mapas interativos para análise espacial de dados.
+
+* **[Mixo.io](https://www.mixo.io/)**
+  Criação automatizada de sites e landing pages para validação rápida de ideias.
+
+* **[Rewind AI](https://www.rewind.ai/)**
+  Gravação e recuperação inteligente de atividades digitais para auditoria e produtividade.
+
+* **[AI Canvas](https://ai-canvas.ai/)**
+  Framework estratégico visual para análise e estruturação de modelos de negócio com apoio de IA.
 
 ---
 
 ## Datasets e Machine Learning
 
-Sites para buscar conjuntos de dados para aprendizado de máquina:
-
-- [HuggingFace](https://huggingface.co/)
-- [Kaggle](https://www.kaggle.com/)
-- [UCI ML Repository](https://archive.ics.uci.edu/)
-- [Segment Anything (Meta)](https://segment-anything.com/)
-- [ImageNet](https://www.image-net.org/)
-- [MNIST Dataset (PyTorch)](https://pytorch.org/vision/main/generated/torchvision.datasets.MNIST.html)
+* **[Hugging Face](https://huggingface.co/)** – Modelos, datasets e pipelines de ML.
+* **[Kaggle](https://www.kaggle.com/)** – Competições e datasets públicos.
+* **[UCI ML Repository](https://archive.ics.uci.edu/)** – Repositório acadêmico clássico de datasets.
 
 ---
 
-## Ferramentas de Pesquisa
-
-- [Stork AI](https://www.stork.ai/)
-- [Perplexity AI](https://www.perplexity.ai/)
-- [Vext Portal](https://app.vextapp.com/)
-
----
 ## 3D
 
-- [Rodin](https://hyper3d.ai/)
+* **[Rodin](https://hyper3d.ai/)** – Geração de modelos 3D a partir de imagens ou texto.
 
 ---
+
 ## AI Toolkit
-- [LM Studio](https://lmstudio.ai/)
-- [Ollama](https://ollama.com/)
----
+
+* **[LM Studio](https://lmstudio.ai/)** – Execução local de LLMs.
+* **[Ollama](https://ollama.com/)** – Gerenciamento e execução de modelos de linguagem localmente.
 
 ---
-## web-scraping
-- [Scrape Graph AI](https://dashboard.scrapegraphai.com/)
+
+## Web Scraping
+
+* **[ScrapeGraph AI](https://dashboard.scrapegraphai.com/)** – Web scraping orientado por grafos e IA.
+
 ---
 
 ## Contribuindo
@@ -183,6 +204,5 @@ Sinta-se à vontade para:
 
 ---
 
-**Licença**  
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
+**Licença**
+Este projeto está licenciado sob a licença MIT.
