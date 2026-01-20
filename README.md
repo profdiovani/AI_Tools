@@ -75,7 +75,7 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 * **[Writesonic](https://writesonic.com)** 🟡
   Plataforma versátil para criação de conteúdo, landing pages e chatbots, permitindo testes rápidos de mercado e automação do atendimento.
 
-  * **[BlogSEO](https://www.blogseo.io/)** 🟢
+* **[BlogSEO](https://www.blogseo.io/)** 🟢
   Plataforma de SEO com IA focada em crescimento de tráfego orgânico, com ênfase em conteúdo e uso de dados estruturados (ex.: JSON-LD/Schema.org) para melhorar visibilidade em mecanismos de busca e em respostas gerativas.
 
 
