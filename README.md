@@ -37,7 +37,7 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 
 ## Produtividade e Comunicação
 
-* **[ChatGPT – OpenAI](https://chat.openai.com){:target="_blank"}** 🟡  
+* **[ChatGPT – OpenAI](https://chat.openai.com)** 🟡  
   Assistente de linguagem de uso geral para escrita, análise, planejamento estratégico e suporte à tomada de decisão. Reduz drasticamente o tempo gasto em tarefas cognitivas e comunicação executiva.
 
 * **[Gemini – Google](https://gemini.google.com)** 🟡  
