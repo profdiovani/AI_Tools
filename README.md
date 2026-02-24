@@ -309,25 +309,84 @@ As ferramentas estão organizadas por **categoria**, contendo **link direto**, *
 * **<a href="https://dashboard.scrapegraphai.com" target="_blank">ScrapeGraph AI</a>** 🟡 – Web scraping orientado por IA e grafos.
 
 ---
+## 📊 Resumo Completo de Ferramentas Adicionadas
 
-## 📊 Resumo de Ferramentas Adicionadas
+| Ferramenta                | Status        | Categoria                     | Nível            |
+|---------------------------|---------------|-------------------------------|------------------|
+| **Buscadores com IA**     |               |                               |                  |
+| Perplexity AI             | 🟡 Freemium  | Buscadores com IA             | 🟢 Iniciante     |
+| DeepSeek                  | 🟡 Freemium  | Buscadores com IA             | 🟢 Iniciante     |
+| Grok                      | 🟡 Freemium  | Buscadores com IA             | 🟢 Iniciante     |
+| **Marketing e Vendas**    |               |                               |                  |
+| BlogSEO                   | 🟡 Freemium  | Marketing e Vendas            | 🟢 Iniciante     |
+| **Desenvolvimento e Código** |            |                               |                  |
+| GitHub Copilot SDK        | 🟢 Gratuito  | Desenvolvimento e Código      | 🔵 Intermediário |
+| Kilo AI                   | 🟡 Freemium  | Desenvolvimento e Código      | 🔵 Intermediário |
+| OpenAI Codex              | 🟡 Freemium  | Desenvolvimento e Código      | 🔵 Intermediário |
+| Claude Code               | 🟡 Freemium  | Desenvolvimento e Código      | 🔵 Intermediário |
+| **Manus**                 | **🟡 Freemium** | **Desenvolvimento e Código** | **🔵 Intermediário** |
+| Cursor                    | 🔴 Pago      | Desenvolvimento e Código      | 🔵 Intermediário |
+| Lovable                   | 🟡 Freemium  | Desenvolvimento e Código      | 🟢 Iniciante     |
+| Cline                     | 🟢 Gratuito  | Desenvolvimento e Código      | 🔵 Intermediário |
+| Continue.dev              | 🟢 Gratuito  | Desenvolvimento e Código      | 🔵 Intermediário |
+| **Modelos e Frameworks**  |               |                               |                  |
+| TensorFlow                | 🟢 Open Source | Modelos e Frameworks        | 🔴 Avançado      |
+| PyTorch                   | 🟢 Open Source | Modelos e Frameworks        | 🔴 Avançado      |
+| LangChain                 | 🟢 Open Source | Modelos e Frameworks        | 🔵 Intermediário |
+| **LLMs Locais**           |               |                               |                  |
+| Ollama                    | 🟢 Open Source | LLMs Locais                 | 🟢 Iniciante     |
+| GPT4All                   | 🟢 Open Source | LLMs Locais                 | 🟢 Iniciante     |
+| Open WebUI                | 🟢 Open Source | LLMs Locais                 | 🔵 Intermediário |
+| LM Studio                 | 🟢 Open Source | LLMs Locais                 | 🟢 Iniciante     |
+| **Ambientes de Desenvolvimento** |        |                               |                  |
+| Vertex AI                 | 🟡 Freemium  | Ambientes de Desenvolvimento  | 🔵 Intermediário |
+| **Datasets e ML**         |               |                               |                  |
+| Google Dataset Search     | 🟢 Gratuito  | Datasets e Machine Learning   | 🟢 Iniciante     |
+| **Frameworks de Agentes** |               |                               |                  |
+| Botpress                  | 🟡 Freemium  | Frameworks de Agentes         | 🔵 Intermediário |
+| Rasa                      | 🟢 Open Source | Frameworks de Agentes       | 🔴 Avançado      |
+| CrewAI                    | 🟢 Open Source | Frameworks de Agentes       | 🔴 Avançado      |
+| AutoGen                   | 🟢 Open Source | Frameworks de Agentes       | 🔴 Avançado      |
+| Emergent Agent            | 🟡 Freemium  | Frameworks de Agentes         | 🔵 Intermediário |
+| LangSmith Agent Builder   | 🟡 Freemium  | Frameworks de Agentes         | 🔵 Intermediário |
+| **Criação de Conteúdo**   |               |                               |                  |
+| ClipDrop                  | 🟡 Freemium  | Criação de Conteúdo Visual    | 🟢 Iniciante     |
+| **Ferramentas Especializadas** |          |                               |                  |
+| Grammarly                 | 🟡 Freemium  | Ferramentas Especializadas    | 🟢 Iniciante     |
 
-| Ferramenta              | Status      | Categoria                | Nível            |
-|-------------------------|-------------|--------------------------|------------------|
-| **Desenvolvimento**     |             |                          |                  |
-| Manus                   | 🟡 Freemium | Desenvolvimento e Código | 🔵 Intermediário |
-| Kilo AI                 | 🟡 Freemium | Desenvolvimento e Código | 🔵 Intermediário |
-| OpenAI Codex            | 🟡 Freemium | Desenvolvimento e Código | 🔵 Intermediário |
-| Claude Code             | 🟡 Freemium | Desenvolvimento e Código | 🔵 Intermediário |
-| GitHub Copilot SDK      | 🟢 Gratuito | Desenvolvimento e Código | 🔵 Intermediário |
-| ... +66 outras          |             |                          |                  |
+## 📈 Estatísticas por Categoria
 
-**Legenda de Níveis:**
-- 🟢 **Iniciante** – Interface intuitiva, sem conhecimento técnico
-- 🔵 **Intermediário** – Requer conhecimento técnico básico
-- 🔴 **Avançado** – Conhecimento profundo em programação/ML
+| Categoria                     | Quantidade | Iniciante | Intermediário | Avançado |
+|-------------------------------|------------|-----------|---------------|----------|
+| **Desenvolvimento e Código**  | **9**      | 1         | **7**         | 1        |
+| **Frameworks de Agentes**     | **6**      | 0         | 3             | 3        |
+| **LLMs Locais**               | **4**      | **3**     | 1             | 0        |
+| **Modelos e Frameworks**      | **3**      | 0         | 1             | **2**    |
+| **Buscadores com IA**         | **3**      | **3**     | 0             | 0        |
+| **Marketing e Vendas**        | **4**      | **1**     | 0             | 0        |
+| **Datasets/ML**               | **4**      | **1**     | 0             | 0        |
+| **Outras categorias**         | **38**     | 10+       | 15+           | 10+      |
 
-**Total de ferramentas: 71**
+## 🔢 Resumo Geral
+
+| Métrica                      | Valor |
+|------------------------------|-------|
+| **Total de ferramentas**     | **71** |
+| **🟢 Iniciante**             | **18** |
+| **🔵 Intermediário**         | **28** |
+| **🔴 Avançado**              | **25** |
+| **🟢 Gratuito/Open Source**  | **32** |
+| **🟡 Freemium**              | **28** |
+| **🔴 Pago**                  | **11** |
+
+**🎯 Legenda de Níveis:**
+- 🟢 **Iniciante** – Interface intuitiva, sem conhecimento técnico prévio
+- 🔵 **Intermediário** – Requer conhecimento básico de programação/desenvolvimento  
+- 🔴 **Avançado** – Especialização em ML, engenharia de dados ou programação avançada
+
+**📅 Última atualização:** Fevereiro 2026
+**✅ Destaque:** **Manus** adicionado como nova ferramenta de desenvolvimento autônomo
+
 
 ---
 
